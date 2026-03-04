@@ -54,7 +54,7 @@ export const blogData = [
     category: "Testimonial",
     desc: '"I received my Title Deed in just 30 days." Hear from our happy investors.',
     videoUrl: "https://www.youtube.com/embed/7nbOFYnpG3o?rel=0",
-    link: "https://youtu.be/7nbOFYnpG3o",
+    link: "https://youtu.be/dGCa5zTcH0Y",
     date: "Sept 28, 2025",
   },
   // --- ARTICLE 2 ---
