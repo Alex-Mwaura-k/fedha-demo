@@ -37,7 +37,7 @@ export const galleryData = [
   {
     id: 6,
     type: "team",
-    img: "https://picsum.photos/id/1011/800/800",
+    img: "/img/Gallery/Team/Team 2.png",
     title: "Customer Care Team",
     desc: "Our Ruiru Office staff ready to serve you.",
   },
