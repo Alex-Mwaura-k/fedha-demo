@@ -65,7 +65,7 @@ export const blogData = [
     category: "Legal",
     img: "/img/Blogs/Title Deeds.png",
     desc: "A step-by-step guide to using the e-Citizen portal for land searches.",
-    date: "Oct 20, 2025",
+    date: "Feb 04, 2026",
     content: `...`,
   },
   // --- VIDEO 3 ---
