@@ -9,7 +9,7 @@ export const galleryData = [
   {
     id: 2,
     type: "team",
-    img: "https://picsum.photos/id/1005/800/800", // Using larger images for lightbox
+    img: "/img/Gallery/Team/Team 1.png", // Using larger images for lightbox
     title: "John Kamau",
     desc: "Senior Sales Manager guiding a client.",
   },
