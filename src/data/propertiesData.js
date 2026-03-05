@@ -148,12 +148,12 @@ export const properties = [
   },
   {
     id: 7,
-    title: "Royal Garden Phase 6 (Coming Soon)",
-    slug: "royal-garden-kithyoko",
+    title: "Royal Garden Phase 6",
+    slug: "royal-garden-kithyoko-phase-6",
     location: "Kithyoko",
     size: "50x100",
-    price: "180,000",
-    status: "Coming Soon",
+    price: "160,000",
+    status: "Available",
 
     img: "/img/properties/royal-garden-kithyoko/main.png",
     images: ["/img/properties/royal-garden-kithyoko/main.png"],
