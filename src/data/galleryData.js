@@ -58,8 +58,8 @@ export const galleryData = [
   {
     id: 9,
     type: "team",
-    img: "https://picsum.photos/id/1025/800/800",
-    title: "Site Engineer",
+    img: "/img/Gallery/Team/Team 3.png",
+    title: "Sales",
     desc: "Grading the roads at Royal Garden Phase 5.",
   },
 ];
