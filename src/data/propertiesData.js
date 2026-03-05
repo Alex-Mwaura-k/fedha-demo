@@ -9,7 +9,10 @@ export const properties = [
     status: "Available",
 
     img: "/img/properties/royal-garden-kithyoko-phase-6/Main.png",
-    images: ["/img/properties/royal-garden-kithyoko-phase-6/1.png"],
+    images: ["/img/properties/royal-garden-kithyoko-phase-6/Main.png",
+             "/img/properties/royal-garden-kithyoko-phase-6/1.png",
+
+    ],
 
     description: "Our newest phase is here finally. Located just few minutes from the Thika-Garissa highway(kwa Muthusi), Royal Garden Phase 6 offers perfect environment perfect for immediate investment. The soil is virgin & red, suitable for farming, and the area is already developed. Schools, Water and electricity are on site it's an ideal choice for both residential and agri-business purposes. The plots are beaconed, and the roads are graded for easy access. Don't miss out on yet another opportunity to own a piece of prime land in Kithyoko.",
     features: ["Friendly neighborhood", 
