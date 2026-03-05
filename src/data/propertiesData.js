@@ -33,7 +33,7 @@ export const properties = [
     id: 2,
     title: "Royal Garden Kithyoko - Phase 5",
     slug: "royal-garden-kithyoko",
-    location: "Kithyoko, Machakos",
+    location: "Kithyoko, Kakululo",
     size: "50x100",
     price: "130,000",
     status: "Available",
