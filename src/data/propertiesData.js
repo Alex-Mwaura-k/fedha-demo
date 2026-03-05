@@ -55,7 +55,7 @@ export const properties = [
     features: [
       "Freehold Title Deed.",
       "650 meters off Tarmac.",
-      "5 minutes fromOcean hence relaxing Breeze.",
+      "5 minutes from Ocean hence relaxing Breeze.",
       "Fully beaconed.",
     ],
     mapSrc:
