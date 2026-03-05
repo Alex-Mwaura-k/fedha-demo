@@ -8,10 +8,10 @@ export const properties = [
     price: "160,000",
     status: "Available",
 
-    img: "/img/properties/royal-garden-kithyoko/main.png",
-    images: ["/img/properties/royal-garden-kithyoko/main.png"],
+    img: "/img/properties/royal-garden-kithyoko-phase-6/main.png",
+    images: ["/img/properties/royal-garden-kithyoko-phase-6/main.png"],
 
-    description: "The next phase of our popular Royal Garden series.",
+    description: "Our newest phase is here finally.",
     features: ["Pre-booking", "Prime Location"],
     mapSrc: "",
   },
