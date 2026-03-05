@@ -67,12 +67,14 @@ export const properties = [
     slug: "unity-gardens",
     location: "Makutano (Mwea)",
     size: "50x100",
-    price: "530,000",
+    price: "450,000",
     status: "Available",
 
     img: "/img/properties/unity-gardens/main.png",
 
-    images: ["/img/properties/unity-gardens/main.png"],
+    images: [
+      "/img/properties/unity-gardens/main.png"
+    ],
 
     description:
       "Prime commercial and residential plots in the heart of Makutano(ya Mwea). Extremely high value appreciation rate. Ideal for building rental flats or commercial centers. The area is a bustling hub with a vibrant New Makutano market, schools, and easy access to the Kenol-Marua dual carriage highway. With ready title deeds, water, electricity, and a secure perimeter fence, Unity Garden offers everything you need for a successful investment.",
