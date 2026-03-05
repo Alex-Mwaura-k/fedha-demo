@@ -37,8 +37,8 @@ export const galleryData = [
   {
     id: 6,
     type: "team",
-    img: "/img/Gallery/Team/Team 2.png",
-    title: "Customer Care Team",
+    img: "/img/Gallery/Team/Team 4.png",
+    title: "Administrator",
     desc: "Our Ruiru Office staff ready to serve you.",
   },
   {
