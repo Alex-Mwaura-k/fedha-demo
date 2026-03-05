@@ -39,7 +39,7 @@ export const galleryData = [
     type: "team",
     img: "/img/Gallery/Team/Team 4.png",
     title: "Administrator",
-    desc: "Our Ruiru Office staff ready to serve you.",
+    desc: "Joy from Our Ruiru Office is ready to serve you.",
   },
   {
     id: 7,
