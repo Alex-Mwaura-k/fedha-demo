@@ -1,4 +1,21 @@
 export const properties = [
+{
+    id: 1,
+    title: "Royal Garden Phase 6",
+    slug: "royal-garden-kithyoko-phase-6",
+    location: "Kithyoko",
+    size: "50x100",
+    price: "160,000",
+    status: "Available",
+
+    img: "/img/properties/royal-garden-kithyoko/main.png",
+    images: ["/img/properties/royal-garden-kithyoko/main.png"],
+
+    description: "The next phase of our popular Royal Garden series.",
+    features: ["Pre-booking", "Prime Location"],
+    mapSrc: "",
+  },
+
   {
     id: 2,
     title: "Royal Garden Kithyoko - Phase 5",
@@ -144,22 +161,6 @@ export const properties = [
     description:
       "This gated community project is fully sold out. Thank you to all our valued customers. Stay tuned for future developments in the Makutano area. We appreciate your support!",
     features: ["Sold Out", "Gated Community"],
-    mapSrc: "",
-  },
-  {
-    id: 1,
-    title: "Royal Garden Phase 6",
-    slug: "royal-garden-kithyoko-phase-6",
-    location: "Kithyoko",
-    size: "50x100",
-    price: "160,000",
-    status: "Available",
-
-    img: "/img/properties/royal-garden-kithyoko/main.png",
-    images: ["/img/properties/royal-garden-kithyoko/main.png"],
-
-    description: "The next phase of our popular Royal Garden series.",
-    features: ["Pre-booking", "Prime Location"],
     mapSrc: "",
   },
 ];
