@@ -60,7 +60,7 @@ const Careers = () => {
           </h1>
           <p className="text-secondary mx-auto" style={{ maxWidth: "600px" }}>
             At Fedha Land Ventures, we don't just sell land we build futures. If
-            you are passionate, driven, and ready to make an impact, we want to
+            you are passionate, Self driven, and ready to make an impact, we want to
             hear from you.
           </p>
         </div>
