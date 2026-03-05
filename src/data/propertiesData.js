@@ -25,7 +25,7 @@ export const properties = [
       "Freehold Title Deeds.",
       "Water borehole on Site.",
       "Electricity Nearby.",
-      "Graded 9 meters wideaccess Roads.",
+      "Graded 9 meters wide access Roads.",
       "Fully Beaconed.",
       "Fertile virgin red soil.",
     ],
@@ -71,9 +71,11 @@ export const properties = [
     status: "Available",
 
     img: "/img/properties/unity-gardens/main.png",
+        
 
     images: [
       "/img/properties/unity-gardens/main.png"
+      
     ],
 
     description:
