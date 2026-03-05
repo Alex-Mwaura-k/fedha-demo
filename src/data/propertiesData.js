@@ -1,7 +1,7 @@
 export const properties = [
 {
     id: 1,
-    title: "Royal Garden Phase 6",
+    title: "Royal Garden Kithoko - Phase 6",
     slug: "royal-garden-kithyoko-phase-6",
     location: "Kithyoko",
     size: "50x100",
