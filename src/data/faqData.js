@@ -19,7 +19,7 @@ export const faqData = [
   },
   {
     id: 4,
-    question: "Are the title deeds freehold or leasehold?",
+    question: "Are the Title Deeds freehold or leasehold?",
     answer:
       "All our commercial, agricultural and residential plots (Kithyoko, Malindi, Makutano) come with Freehold Title Deeds, meaning you own the land indefinitely.",
   },
