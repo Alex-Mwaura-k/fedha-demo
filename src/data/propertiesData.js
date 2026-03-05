@@ -54,8 +54,8 @@ export const properties = [
       "A massive 1-acre block ideal for holiday homes, speculation, or large scale farming. Located near Msumarini shopping center just 45 minutes from Malindi CBD, this project promises high returns on investment. The area boasts a cool climate, ocean breeze, and is in close proximity to the beach. With freehold title deeds, tarmacked roads nearby, and a secure environment, Kijani Garden is perfect for those looking to invest in Malindi's thriving property market.",
     features: [
       "Freehold Title Deed.",
-      "Near Tarmac.",
-      "Ocean Breeze.",
+      "650 meters off Tarmac.",
+      "5 minutes fromOcean hence relaxing Breeze.",
       "Fully beaconed.",
     ],
     mapSrc:
