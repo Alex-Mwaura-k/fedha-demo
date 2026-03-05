@@ -9,7 +9,7 @@ export const faqData = [
     id: 2,
     question: "Do you offer free site visits?",
     answer:
-      "Yes! We offer free transport to our projects every Wednesday and Saturday. Pickup is at our Ruiru office (Nyongo Plaza) at 8:00 AM.",
+      "Yes! We offer free transport to our projects every Wednesday and Saturday. Pickup is at our Ruiru office (Nyongo Plaza) at 8:00 AM and get this; there's free snacks.",
   },
   {
     id: 3,
