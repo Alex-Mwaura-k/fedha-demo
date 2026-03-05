@@ -8,7 +8,7 @@ export const properties = [
     price: "160,000",
     status: "Available",
 
-    img: "/img/properties/royal-garden-kithyoko-phase-6/main.png",
+    img: "/img/properties/royal-garden-kithyoko-phase-6/Main.png",
     images: ["/img/properties/royal-garden-kithyoko-phase-6/1.png"],
 
     description: "Our newest phase is here finally.",
