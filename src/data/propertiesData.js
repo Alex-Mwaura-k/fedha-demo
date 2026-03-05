@@ -16,6 +16,7 @@ export const properties = [
       "/img/properties/royal-garden-kithyoko/2.png",
       "/img/properties/royal-garden-kithyoko/3.png",
       "/img/properties/royal-garden-kithyoko/4.png",
+      "/img/properties/royal-garden-kithyoko/5.png",
     ],
 
     description:
