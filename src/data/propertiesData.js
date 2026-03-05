@@ -9,7 +9,7 @@ export const properties = [
     status: "Available",
 
     img: "/img/properties/royal-garden-kithyoko-phase-6/main.png",
-    images: ["/img/properties/royal-garden-kithyoko-phase-6/main.png"],
+    images: ["/img/properties/royal-garden-kithyoko-phase-6/1.png"],
 
     description: "Our newest phase is here finally.",
     features: ["Pre-booking", "Prime Location"],
