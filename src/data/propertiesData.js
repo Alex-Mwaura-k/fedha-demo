@@ -1,6 +1,6 @@
 export const properties = [
   {
-    id: 1,
+    id: 2,
     title: "Royal Garden Kithyoko - Phase 5",
     slug: "royal-garden-kithyoko",
     location: "Kithyoko, Machakos",
@@ -33,7 +33,7 @@ export const properties = [
       "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4243.630808147012!2d37.89191877496538!3d-1.0744204989152528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMcKwMDQnMjcuOSJTIDM3wrA1Myc0MC4yIkU!5e1!3m2!1sen!2ske!4v1764786497521!5m2!1sen!2ske",
   },
   {
-    id: 2,
+    id: 3,
     title: "Kijani Garden Malindi",
     slug: "kijani-garden-malindi",
     location: "Malindi",
@@ -62,7 +62,7 @@ export const properties = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15955!2d40.1!3d-3.2!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM8KwMTInMDAuMCJTIDQwwrAwNiwwMC4wIkU!5e0!3m2!1sen!2ske!4v1620000000000!5m2!1sen!2ske",
   },
   {
-    id: 3,
+    id: 4,
     title: "Unity Garden Makutano",
     slug: "unity-gardens",
     location: "Makutano (Mwea)",
@@ -91,7 +91,7 @@ export const properties = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4243.971739633278!2d37.29781994516046!3d-0.7918142332090111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1828a10f5e953979%3A0x6fa09031ab8a583c!2sFadhili%20Gardens%2C%20Phase%202%20(FedhaLand%20Ventures)!5e1!3m2!1sen!2ske!4v1764789996852!5m2!1sen!2ske",
   },
   {
-    id: 4,
+    id: 5,
     title: "Royal Garden Kithyoko - Phase 4",
     slug: "royal-garden-kithyoko",
     location: "Kithyoko",
@@ -109,7 +109,7 @@ export const properties = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d271600.1812526625!2d37.50506878016992!3d-0.9826549983425922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1825d50050529db3%3A0x85f1e6c046bd2c91!2sRoyal%20Gardens%20Phase%204(Fedha%20Land%20Ventures)!5e1!3m2!1sen!2ske!4v1764789333226!5m2!1sen!2ske",
   },
   {
-    id: 5,
+    id: 6,
     title: "Amani Garden Malindi",
     slug: "amani-garden-malindi",
     location: "Malindi",
@@ -130,7 +130,7 @@ export const properties = [
     mapSrc: "",
   },
   {
-    id: 6,
+    id: 7,
     title: "Fadhili Garden Makutano",
     slug: "fadhili-garden-makutano",
     location: "Makutano",
@@ -147,7 +147,7 @@ export const properties = [
     mapSrc: "",
   },
   {
-    id: 7,
+    id: 1,
     title: "Royal Garden Phase 6",
     slug: "royal-garden-kithyoko-phase-6",
     location: "Kithyoko",
