@@ -25,8 +25,9 @@ export const properties = [
       "Freehold Title Deeds.",
       "Water borehole on Site.",
       "Electricity Nearby.",
-      "Graded access Roads.",
+      "Graded 9 meters wideaccess Roads.",
       "Fully Beaconed.",
+      "Fertile virgin red soil.",
     ],
     mapSrc:
       "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4243.630808147012!2d37.89191877496538!3d-1.0744204989152528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMcKwMDQnMjcuOSJTIDM3wrA1Myc0MC4yIkU!5e1!3m2!1sen!2ske!4v1764786497521!5m2!1sen!2ske",
