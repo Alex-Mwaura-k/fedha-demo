@@ -26,7 +26,7 @@ export const properties = [
                "Schools,water and electricity on site.",
                "Free-Hold Title Deeds.",
               ],
-    mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5293.055286509641!2d37.94037912831014!3d-1.0601532485726108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1825d5c37422fb85%3A0x6ea0e961567e2ddd!2sThitani!5e1!3m2!1sen!2ske!4v1772716466580!5m2!1sen!2ske",
+    mapSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4434.905066513154!2d37.94398187575593!3d-1.0583897480731832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1825d300492ca975%3A0xa53ec137d469d5f3!2sRoyal%20Gardens%20Phase%206(Fedha%20Land%20Ventures)!5e1!3m2!1sen!2ske!4v1772871167883!5m2!1sen!2ske",
   },
 
   {
