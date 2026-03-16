@@ -129,8 +129,8 @@ export const properties = [
     price: "120,000",
     status: "Sold Out",
 
-    img: "/img/properties/royal-garden-kithyoko/main.png",
-    images: ["/img/properties/royal-garden-kithyoko/main.png"],
+    img: "/img/properties/royal-garden-kithyoko-4/main.png",
+    images: ["/img/properties/royal-garden-kithyoko-4/main.png"],
 
     description:
       "Our most affordable project yet. Located 10 minutes from Kavaini shopping center. Perfect for first-time investors looking to secure land cheaply. The area is developing rapidly with new infrastructure projects underway. With ready title deeds, electricity, and community water, it's an excellent opportunity to own land in Kithyoko.",
