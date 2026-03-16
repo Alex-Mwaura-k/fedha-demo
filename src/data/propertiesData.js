@@ -127,7 +127,7 @@ export const properties = [
     location: "Kithyoko",
     size: "50x100",
     price: "120,000",
-    status: "Available",
+    status: "Sold Out",
 
     img: "/img/properties/royal-garden-kithyoko/main.png",
     images: ["/img/properties/royal-garden-kithyoko/main.png"],
