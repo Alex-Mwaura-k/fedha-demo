@@ -36,7 +36,7 @@ export const properties = [
     location: "Kithyoko, Kakululo",
     size: "50x100",
     price: "130,000",
-    status: "Available",
+    status: "Sold Out",
 
     img: "/img/properties/royal-garden-kithyoko/main.png",
 
@@ -138,7 +138,7 @@ export const properties = [
              "/img/properties/royal-garden-kithyoko-phase-4/5.png",
       
     ],
-    
+
     description:
       "Our most affordable project yet. Located 10 minutes from Kavaini shopping center. Perfect for first-time investors looking to secure land cheaply. The area is developing rapidly with new infrastructure projects underway. With ready title deeds, electricity, and community water, it's an excellent opportunity to own land in Kithyoko.",
     features: ["Ready Titles", "Electricity", "Community Water"],
